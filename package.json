@@ -1,18 +1,10 @@
 {
-    "name"    : "eve",
-
-    "author"  : {
-        "name"  : "Dmitry Baranovskiy",
-        "email" : "dmitry@baranovskiy.com",
-        "url"   : "http://dmitry.baranovskiy.com"
-    },
-	"description" : "Simple custom events",
-    "version" : "0.4.1",
-
-    "main"    : "./eve.js",
-
-    "repository": {
-        "type": "git",
-        "url": "git@github.com:adobe-webplatform/eve.git"
-    }
+  "name": "adobe-webplatform-eve",
+  "description": "Custom Events",
+  "version": "0.4.1",
+  "keywords": [
+    "events"
+  ],
+  "main": "eve.js",
+  "dependencies": {}
 }
